@@ -13,7 +13,7 @@ ShadcnCSS is a minimalist, utility-first CSS framework inspired by the styling p
 Include the following link in your HTML file (CDN still in development):
 
 ```html
-<link rel="stylesheet" href="https://[still in development]/shadcncss/latest/shadcn.css">
+<link rel="stylesheet" href="https://still_in_development/shadcncss/latest/shadcn.css">
 ```
 
 ## Usage  
